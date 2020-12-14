@@ -1,0 +1,68 @@
+/* pages/new/new.wxss */
+.title{
+  font-size: 50rpx;
+  text-align: center;
+  color: #FFFFFF;
+}
+.subtitle{
+  font-size: 30rpx;
+  margin-top: 30rpx;
+  text-align: center;
+  color: gray;
+}
+.bacim{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -3;
+}
+.boaderA{
+  position: absolute;
+  z-index: -2;
+  margin-top: -19rpx;
+  margin-left: 0;
+  width: 100%;
+  height: 200rpx;
+}
+.helmet{
+  position: absolute;
+  z-index: 0;
+  width: 200rpx;
+  height: 200rpx;
+  margin-left: 25rpx;
+  margin-top: -28rpx;
+}
+.helmet2{
+  position: absolute;
+  z-index: -1;
+  width: 150rpx;
+  height: 150rpx;
+  margin-left: 50rpx;
+  margin-top: -5rpx;
+}
+.status{
+  flex-direction: row;
+  margin-top: 30rpx;
+}
+.bott0
+{
+  position: absolute;
+  bottom: 0;
+}
+.bott1
+{
+  position: absolute;
+  bottom:0;
+  left: 43%;
+  z-index: 0;
+}
+.fri
+{
+  z-index: 2;
+}
+.tex
+{
+  position: relative;
+  text-align: center;
+  top: 200rpx;
+}
