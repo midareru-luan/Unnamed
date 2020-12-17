@@ -1,6 +1,7 @@
 
 
 // pages/new/new.js
+const content=require("./content");
 const app=getApp();
 const NULL=res=>{};//空函数
 const UUID='0';
